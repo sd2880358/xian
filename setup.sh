@@ -3,5 +3,5 @@
 # url:www.runoob.com
 
 #使用 . 号来引用test1.sh 文件
-pip install --upgrade 
+pip install --upgrade pip
 pip install -r requirements.txt 
