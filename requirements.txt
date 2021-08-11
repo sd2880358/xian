@@ -1,3 +1,6 @@
 pandas
 matplotlib
 numpy
+tensorflow_addons
+IPython
+Sklearn
